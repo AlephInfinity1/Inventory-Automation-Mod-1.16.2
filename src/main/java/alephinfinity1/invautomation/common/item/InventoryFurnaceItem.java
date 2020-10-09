@@ -1,4 +1,4 @@
-package alephinfinity1.invautomation.item;
+package alephinfinity1.invautomation.common.item;
 
 import net.minecraft.item.Item;
 

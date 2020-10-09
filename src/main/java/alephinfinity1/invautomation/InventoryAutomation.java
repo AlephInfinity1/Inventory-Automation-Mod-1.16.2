@@ -1,6 +1,6 @@
 package alephinfinity1.invautomation;
 
-import alephinfinity1.invautomation.item.ModItems;
+import alephinfinity1.invautomation.common.item.ModItems;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
